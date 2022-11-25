@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b33938c-bddd-49fa-8858-74195ad23c28" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_learn/music_player.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_learn/temp_test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js_learn/temp_test.js" beforeDir="false" />
-    </list>
+    <list default="true" id="0b33938c-bddd-49fa-8858-74195ad23c28" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +71,7 @@
       <workItem from="1669339677905" duration="230000" />
       <workItem from="1669340041367" duration="344000" />
       <workItem from="1669352502825" duration="24000" />
+      <workItem from="1669352852224" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1664350918594</created>
@@ -141,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668999573585</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1669352886093</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669352886094</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
